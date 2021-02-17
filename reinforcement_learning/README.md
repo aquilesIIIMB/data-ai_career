@@ -3,7 +3,7 @@ Informacion de interes sobre data science, inteligencia artificial y hobbies gee
 
 ## Tutorials
 ### codeproject
-- [Cartpole: The “Hello World” of Reinforcement Learning](https://www.codeproject.com/Articles/5271939/Cartpole-The-Hello-World-of-Reinforcement-Learning)
+- [Cartpole: The “Hello World” of Reinforcement Learning](https://www.codeproject.com/Articles/5271939/Cartpole-The-Hello-World-of-Reinforcement-Learning) 
 *A Brief Introduction to Reinforcement Learning | Training the Cartpole Environment | Retrieving the Video in a Remote Notebook*
 - [Cartpole: Tweaking the Options](https://www.codeproject.com/Articles/5271946/Cartpole-Tweaking-the-Options)
 ###### *Understanding the Cartpole Environment | Changing the Learning Configuration | Mountain Car Environment*
