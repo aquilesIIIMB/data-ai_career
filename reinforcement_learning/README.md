@@ -33,5 +33,8 @@
 	###### *A Simple Introduction to Deep Q-Network*
 
 ### Analytics Vidhya
-[Simple Beginner’s guide to Reinforcement Learning & its implementation](https://www.analyticsvidhya.com/blog/2017/01/introduction-to-reinforcement-learning-implementation/)
+- [Simple Beginner’s guide to Reinforcement Learning & its implementation](https://www.analyticsvidhya.com/blog/2017/01/introduction-to-reinforcement-learning-implementation/)
 	###### *Formulating a reinforcement learning problem | Comparison with other machine learning methodologies | Framework for solving Reinforcement learning problems | An implementation of Reinforcement Learning | Increasing the complexity | Peek into recent RL advancements | Additional Resources*
+
+### Stanford
+- [Reinforcement Learning: An Introduction](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
